@@ -6,6 +6,6 @@
 @import "tailwindcss/components";
 @import "tailwindcss/utilities";
 
-body {
- background: cyan;
+html {
+  font-family: 'JetBrains Mono', monospace;
 }
