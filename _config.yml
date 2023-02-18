@@ -6,7 +6,7 @@ plugins:
   - jekyll-postcss
   - jekyll-multiple-languages-plugin
 
-languages: ["en", "pt"]
+languages: ["en", "pt", "cn"]
 
 exclude_from_localizations: ["javascript", "images", "css"]
 
