@@ -1,6 +1,5 @@
 ---
 layout: default
-title: "1337 shades of grey"
 ---
 
 <div class="absolute right-0 mr-6">
