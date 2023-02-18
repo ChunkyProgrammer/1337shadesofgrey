@@ -4,6 +4,11 @@ title: "" # the name of your site, e.g. ACME Corp.
 
 plugins:
   - jekyll-postcss
+  - jekyll-multiple-languages-plugin
+
+languages: ["en", "pt"]
+
+exclude_from_localizations: ["javascript", "images", "css"]
 
 postcss:
   cache: false
