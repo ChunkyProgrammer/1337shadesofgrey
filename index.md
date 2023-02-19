@@ -18,7 +18,7 @@ layout: default
 
 <div class="container max-w-5xl mx-auto mb-8 px-4">
   <div class="flex flex-col sm:flex-row justify-center mt-6">
-    <img class="border-solid border-4 border-white mx-auto sm:m-0" src="/assets/img/cover.jpeg" style="width: 350px">
+    <img class="border-solid border-4 border-white mx-auto sm:m-0" src="{% t cover_file %}" style="width: 350px">
     <div class="ml-2 mt-2">
       <p>
         <b>{% t author_label %}:</b> {% t author_value %}
