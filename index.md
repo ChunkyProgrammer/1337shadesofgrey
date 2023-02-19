@@ -6,6 +6,7 @@ layout: default
   <a class="text-blue-400 underline" href="/">en</a>
   <a class="text-blue-400 underline" href="/pt">pt</a>
   <a class="text-blue-400 underline" href="/cn">cn</a>
+  <a class="text-blue-400 underline" href="/ru">ru</a>
 </div>
 
 <h1 class="text-3xl font-extrabold text-transparent bg-clip-text bg-gradient-to-br from-chestnut-200 to-beaver-500 text-center mt-6">
